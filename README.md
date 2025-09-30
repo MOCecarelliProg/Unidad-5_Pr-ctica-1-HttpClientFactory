@@ -4,7 +4,8 @@ Repositorio de la práctica 1 de la unidad 5 sobre HttpClientFactory.
 # Objetivo principal
 El objetivo principal de la actividad es hacer uso de HttpClientFactory para intentar comunicarse con una api pública de chistes y obtener un chiste aleatorio.
 
-# Repo oficial de la api de chistes: https://github.com/15Dkatz/official_joke_api
+# Repo oficial de la api de chistes:
+https://github.com/15Dkatz/official_joke_api
 Puedes consultar los endpoints que ofrece y testear alguno para conocer el formate de los objetos que retorna
 
 La plantilla inicial de la actividad ya contiene todos los archivos necesarios en cada capa. Sólo debes completar el código para coordinar el funcionamiento. Clona este repositorio e intenta resolver la consigna guiándote del apunte de la unidad.
