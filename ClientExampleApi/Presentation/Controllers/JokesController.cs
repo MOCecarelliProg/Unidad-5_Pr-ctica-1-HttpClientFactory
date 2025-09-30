@@ -17,5 +17,13 @@ namespace Presentation.Controllers
         }
 
         // Crea algunos endpoints más para llamar a más métodos del servicio y consumir algún otro endpoint de la API de chistes...
-    }
+
+        /* Por ejemplo:
+            Grab joke by id
+            Get joke types
+            Grab ten random jokes
+            Grab any number of random jokes
+            Grab jokes by type
+        */
+    }   
 }
