@@ -16,8 +16,8 @@ Una vez que hayas conseguido consumir el endpoint de la api de chistes que retor
 (NOTA: para poder inyectar y utilizar la interfaz IHttpClientFactory en la capa de infraestructura deberás instalar el paquete nuget Microsoft.Extensions.Http en alguna versión compatible con .NET 8;
 
 Archivos a completar:
-    - ExampleClientAPI.Application.Models.JokeDTO.cs
-    - ExampleClientAPI.Application.Interfaces.IJokeService.cs
-    - ExampleClientAPI.Infrastructure.Services.JokeService.cs
-    - ExampleClientAPI.Presentation.Controllers.JokesController.cs
-    - ExampleClientAPI.Presentation.Program.cs
+- ExampleClientAPI.Application.Models.JokeDTO.cs
+- ExampleClientAPI.Application.Interfaces.IJokeService.cs
+- ExampleClientAPI.Infrastructure.Services.JokeService.cs
+- ExampleClientAPI.Presentation.Controllers.JokesController.cs
+- ExampleClientAPI.Presentation.Program.cs
